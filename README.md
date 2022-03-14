@@ -19,4 +19,5 @@ Question #2
 (Bonus) Question #3
 A perfect non-statistical natural language understanding (NLU) or generation (NLG) system would need to have a  huge amount of  knowledge of the world. 
 (a)	Show why world knowledge is essential for NLU by naming two NLU tasks that in general require knowledge of  the world to perform perfectly. For each task, give an example where world knowledge would be useful or essential, but where knowledge of language alone would  not suffice. Justify your  claims. (10.0)
+
 (b) Name an example of a  natural language generation (NLG) system and give two examples of laces where knowledge of the world (not just language) could be crucial in getting appropriate performance from the system. You can base your answers on what you anticipate the particular application requires,  and need not base it on knowledge of how the actual system works. (10.0)
