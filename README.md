@@ -11,7 +11,7 @@ Questions to answer:
 5. If you had a few weeks (say 4-8) to do this task, what other approaches would you try and implement for this problem? (15.0)
 
 
-Question #2 
+Question #2
 (a) Suppose you have a neural network that is overfitting to the training data. Describe two ways to fix this situation. (5.0)
 
 (b) You are training a neural network with Adam and watching the negative log likelihood of the training set over epochs. Rather than decreasing, it seems to fluctuate around where it started. What is one change you could make to your training procedure that could fix this? (5.0)
