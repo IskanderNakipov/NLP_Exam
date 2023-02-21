@@ -1,7 +1,7 @@
 # NLP_Exam
 Showcase your NLP skills
 
-Question #1 - Goal - Identify Top Keywords (See provided dataset)
+Question #1 - Goal - Identify Top Keywords (See provided dataset in csv)
 
 Questions to answer:
 1. Please briefly describe your approach (10.0)
